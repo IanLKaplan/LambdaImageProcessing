@@ -13,3 +13,5 @@ This code was originally written to handle image processing for images posted to
 AWS Lambda code can only be debugged by outputting log file messages and examining the resulting log files. This made testing difficult, so it is important that Lambda code be extensively tested before it is deployed. This code includes both local and Lambda call test code. To use this test code you will need to use your own Amazon ID and Key.
 
 This code was written by Ian Kaplan, the founder of Topstone Software consulting (www.topstonesoftware.com). Ian Kaplan also designed and built the nderground social network. Topstone Software Consulting provides consulting services in a variety of areas, including large scale web application design and development, Amazon Web Services application architecture, Web security abd machine learning.
+
+This code was built with Eclipse Luna, with the Amazon Lambda development plugin.
