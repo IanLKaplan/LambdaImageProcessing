@@ -46,6 +46,7 @@ to be tested on both the local system and on Lambda.
 
 This project contains the Lambda functions that will be downloaded to AWS Lambda to support Lambda image processing.
 
-This code was written by Ian Kaplan, the founder of Topstone Software consulting (www.topstonesoftware.com). Ian Kaplan also designed and built the nderground social network. Topstone Software Consulting provides consulting services in a variety of areas, including large scale web application design and development, Amazon Web Services application architecture, Web security abd machine learning.
+
+This code was written by Ian Kaplan, the founder of Topstone Software consulting (www.topstonesoftware.com). Ian Kaplan also designed and built the nderground social network. Topstone Software Consulting provides consulting services in a variety of areas, including large scale web application design and development, Amazon Web Services application architecture, Web security and machine learning.
 
 This code was built with Eclipse Luna, with the Amazon Lambda development plugin.
